@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+**静水流深**
+
+## 技能树 (Skill Tree)  
+
+### 编辑器 (Editor)
+![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&&logo=Vim&logoColor=white)
+
+### 开发板 (development board)
+![stmicroelectronics](https://img.shields.io/badge/-stmicroelectronics-03234b?style=for-the-badge&&logo=stmicroelectronics&logocolor=white)
+![espressif](https://img.shields.io/badge/-espressif-e7352c?style=for-the-badge&&logo=espressif&logocolor=white)
+![arduino](https://img.shields.io/badge/-arduino-00979d?style=for-the-badge&&logo=arduino&logocolor=white)
+
 <!--
 **Abrillant-Lee/Abrillant-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

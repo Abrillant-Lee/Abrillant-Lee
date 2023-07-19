@@ -1,6 +1,14 @@
 ***Still water flows deeply***
 ## 技能树 (Skill Tree)  
 
+### 开发工具 (Development Tool)
+![Git](https://img.shields.io/badge/-Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white)
+
+### 系统 (System)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=for-the-badge&&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078d6?style=for-the-badge&&logo=windows&logoColor=white)
+
 ### 编辑器 (Editor)
 ![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&&logo=Vim&logoColor=white)

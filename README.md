@@ -14,10 +14,10 @@
 
 |Skill|Data|
 |:----:|:-----:|
-|**编辑器 (Eidtor)**                              |![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code&logoColor=white)  ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&&logo=Vim&logoColor=white)|
-|**开发工具 (Development Tool)**|![Docker](https://img.shields.io/badge/-Docker-0073ec?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f44d27?style=flat&logo=git&logoColor=white) [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb)  |
-|**系统 (System)**|![Windows](https://img.shields.io/badge/-Windows-0078d6?style=flat&&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat&&logo=ubuntu&logoColor=white)|
-|**开发板 (Development Board)**|![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234b?style=flat&&logo=stmicroelectronics&logocolor=white) ![Espressif](https://img.shields.io/badge/-Espressif-e7352c?style=flat&logo=Espressif&logoColor=white)
+|**编辑器 (Eidtor)**| <img width=100/>![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code&logoColor=white)  ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&&logo=Vim&logoColor=white) <img width=100/>|
+|**开发工具 (Development Tool)**| <img width=100/>![Docker](https://img.shields.io/badge/-Docker-0073ec?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f44d27?style=flat&logo=git&logoColor=white) [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb)<img width=100/>|
+|**系统 (System)**|<img width=100/>![Windows](https://img.shields.io/badge/-Windows-0078d6?style=flat&&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat&&logo=ubuntu&logoColor=white)<img width=100/>|
+|**开发板 (Development Board)**|<img width=100/>![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234b?style=flat&&logo=stmicroelectronics&logocolor=white) ![Espressif](https://img.shields.io/badge/-Espressif-e7352c?style=flat&logo=Espressif&logoColor=white)<img width=100/>|
 
 
 <!-- ## 技能树 (Skill Tree)  

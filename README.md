@@ -13,11 +13,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Abrillant+Lee;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 |Skill|Data|
-|:---:|:----:|
-|编辑器 (Eidtor)|![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code&logoColor=white)  ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&&logo=Vim&logoColor=white)|
-|开发工具 (Development Tool)|![Docker](https://img.shields.io/badge/-Docker-0073ec?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f44d27?style=flat&logo=git&logoColor=white) [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb)  |
-|系统 (System)|![Windows](https://img.shields.io/badge/-Windows-0078d6?style=flat&&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat&&logo=ubuntu&logoColor=white)|
-|开发板 (Development Board)|![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234b?style=flat&&logo=stmicroelectronics&logocolor=white) ![Espressif](https://img.shields.io/badge/-Espressif-e7352c?style=flat&logo=Espressif&logoColor=white)
+|:----:|:-----:|
+|**编辑器 (Eidtor)**                              |![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code&logoColor=white)  ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&&logo=Vim&logoColor=white)|
+|**开发工具 (Development Tool)**|![Docker](https://img.shields.io/badge/-Docker-0073ec?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f44d27?style=flat&logo=git&logoColor=white) [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb)  |
+|**系统 (System)**|![Windows](https://img.shields.io/badge/-Windows-0078d6?style=flat&&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat&&logo=ubuntu&logoColor=white)|
+|**开发板 (Development Board)**|![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234b?style=flat&&logo=stmicroelectronics&logocolor=white) ![Espressif](https://img.shields.io/badge/-Espressif-e7352c?style=flat&logo=Espressif&logoColor=white)
 
 
 <!-- ## 技能树 (Skill Tree)  

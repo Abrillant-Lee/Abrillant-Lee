@@ -5,12 +5,12 @@
     <a href="https://github.com/Abrillant-Lee/Abrillant-Lee/graphs/contributors"><img src="https://img.shields.io/github/contributors/Abrillant-Lee/Abrillant-Lee?color=blue"></a>
     <a href="https://github.com/Abrillant-Lee/Abrillant-Lee/stargazers"><img src="https://img.shields.io/github/stars/Abrillant-Lee/Abrillant-Lee.svg?logo=github"></a>
     <a href="https://github.com/Abrillant-Lee/Abrillant-Lee/network/members"><img src="https://img.shields.io/github/forks/Abrillant-Lee/Abrillant-Lee.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Abrillant-Lee.Abrillant-Lee" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Abrillant-Lee.Abrillant-Lee" alt="visitors"/>
 </p>
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Abrillant+Lee;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+<!--   my-ticker -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines="沧浪之水清兮，可以濯吾缨；沧浪之水浊兮，可以濯吾足")](https://git.io/typing-svg)
 
 |<br>技能(Skill)|<br>Data|
 |:----------------:|:------------------:|
@@ -20,7 +20,7 @@
 |<br><img width=100/>**开发板 (Development Board)**<img width=80/><br>|<img width=50/>![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234b?style=flat&&logo=stmicroelectronics&logocolor=white) ![Espressif](https://img.shields.io/badge/-Espressif-e7352c?style=flat&logo=Espressif&logoColor=white)<img width=50/> <img width=50/>|
 
 
-<!-- ## 技能树 (Skill Tree)  
+<!-- ## 技能树 (Skill Tree)
 
 ### 开发工具 (Development Tool)
 ![Git](https://img.shields.io/badge/-Git-f44d27?style=flat&logo=git&logoColor=white)
@@ -38,5 +38,5 @@
 ![stmicroelectronics](https://img.shields.io/badge/-stmicroelectronics-03234b?style=flat&&logo=stmicroelectronics&logocolor=white) -->
 
 ## 今年汇总 ✨
- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Abrillant-Lee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrillant-Lee&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> 
+ <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Abrillant-Lee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrillant-Lee&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!-- ![](./assets/Bottom_down.svg)-->

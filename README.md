@@ -1,4 +1,4 @@
-****![](./assets/Bottom_up.svg)
+![](./assets/Bottom_up.svg)
 <!--   my-icons -->
 <h3 align="center">Hi 👋, I'm Abrillant Lee 🚀</h3>
 

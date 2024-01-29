@@ -5,6 +5,8 @@
 
 个人博客: [abrillant-lee.github.io](https://abrillant-lee.github.io)
 
+个人简历：[https://abrillant-lee.github.io/Resume](https://abrillant-lee.github.io/Resume/)
+
 </div>
 
 
@@ -15,7 +17,6 @@
     </a>
   </div>
 </div>
-
 <div align="center">
 
 ## 🏆 Profile Trophy

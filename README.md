@@ -3,7 +3,7 @@
 <div align="center">
 <b>主动学习新知识，让头脑始终保持在开放和前沿的状态<br>
 
-个人博客: [abrillant-lee.github.io](https://abrillant-lee.github.io)<br>
+个人网站: [abrillant-lee.github.io](https://abrillant-lee.github.io)<br>
 个人简历：[https://abrillant-lee.github.io/Resume](https://abrillant-lee.github.io/Resume/)<br>
 </div>
 <div align="center">

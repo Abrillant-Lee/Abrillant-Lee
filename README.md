@@ -1,4 +1,4 @@
-h3 align="center">Hi 👋, I'm Abrillant Lee 🚀</h3>
+<h3 align="center">Hi 👋, I'm Abrillant Lee 🚀</h3>
 
 <div align="center">
 <b>主动学习新知识，让头脑始终保持在开放和前沿的状态<br><br>

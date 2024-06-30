@@ -1,9 +1,9 @@
 <h3 align="center">Hi 👋, I'm Abrillant Lee 🚀</h3>
 
 <div align="center">
-<b>主动学习新知识，让头脑始终保持在开放和前沿的状态<br><br>
+<b>主动学习新知识，让头脑始终保持在开放和前沿的状态<br>
 
-个人网站: [abrillantlee.top](https://abrillantlee.top)<br>
+个人网站（加密）： [abrillantlee.top](https://abrillantlee.top)<br>
 </div>
 <div align="center">
   <div>

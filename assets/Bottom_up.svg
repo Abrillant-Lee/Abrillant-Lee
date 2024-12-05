@@ -16,7 +16,7 @@
 
                     <defs>
         <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#FF5733"/><stop offset="100%" stop-color="#C70039"/>
+            <stop offset="0%" stop-color="#3498db"/><stop offset="100%" stop-color="#9b59b6"/>
         </linearGradient>
     </defs>
 
@@ -28,6 +28,6 @@
 </path>
     </g>
 
-            <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" > Welcome to Abrillant Lee's profile!</text>
+            <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" > Welcome to My Creative Space!</text>
 
 </svg>

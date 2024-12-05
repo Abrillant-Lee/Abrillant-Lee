@@ -23,3 +23,26 @@
 
 
  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Abrillant-Lee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrillant-Lee&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
+
+## About Me
+
+I am Abrillant Lee, a passionate developer with a love for learning new technologies and staying at the forefront of the industry. I enjoy solving complex problems and building innovative solutions.
+
+## Skills and Technologies
+
+- Programming Languages: JavaScript, Python, Java, C++
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, Jenkins
+
+## Projects
+
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
+- **Project 3**: Description of project 3.
+
+## Contact
+
+- Email: abrillant.lee@example.com
+- LinkedIn: [Abrillant Lee](https://www.linkedin.com/in/abrillant-lee/)
+- GitHub: [Abrillant-Lee](https://github.com/Abrillant-Lee)
